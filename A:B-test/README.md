@@ -1,3 +1,4 @@
+Просмотр проекта в nbviewer: [Проект по A/B-тестированию](https://nbviewer.org/github/Iuliia-Komlenok/Data_Analyst_projects/blob/main/A%3AB-test/A_B-test.ipynb)
 # Проект по A/B-тестированию
 Проведенное A/B-тестирование касается изменений, связанных с внедрением улучшенной рекомендательной системы.
 ## Цель исследования:

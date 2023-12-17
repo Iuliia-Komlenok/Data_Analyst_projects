@@ -1,3 +1,4 @@
+Просмотр проекта в nbviewer: [Анализ поведения пользователей в мобильном приложении "Ненужные вещи"](https://nbviewer.org/github/Iuliia-Komlenok/Data_Analyst_projects/blob/main/Mobile_app/Mobile_app.ipynb)
 # Анализ поведения пользователей в мобильном приложении "Ненужные вещи"
 ## Материалы:
 + Презентация (https://drive.google.com/file/d/1J19fkyIdkxAbEQEUG_MVYYoMQLG3zn4G/view?usp=sharing)
